@@ -1,0 +1,64 @@
+<table border="1" cellpadding="0" cellspacing="0"><tr>
+			<th>Name</th>
+			<th>Roll No.</th>
+			<th>Division / Specialization</th>
+			<th>Lectures Attended</th>
+			<th>Total Lectures</th>
+			<th>Percentage</th>
+		</tr><tr>
+					<td>Saqib  Ahmad</td>
+					<td>BHM201822-2</td>
+					<td>A</td>
+					<td>5</td>
+					<td>33</td>
+					<td>15.15%</td>
+				</tr><tr>
+					<td>Abhishek Sharma</td>
+					<td>4052022</td>
+					<td>A</td>
+					<td>7</td>
+					<td>33</td>
+					<td>21.21%</td>
+				</tr><tr>
+					<td>Shyam Dubey</td>
+					<td>3052022</td>
+					<td>A</td>
+					<td>6</td>
+					<td>33</td>
+					<td>18.18%</td>
+				</tr><tr>
+					<td>Radha Mishra</td>
+					<td>1322210</td>
+					<td>A</td>
+					<td>8</td>
+					<td>33</td>
+					<td>24.24%</td>
+				</tr><tr>
+					<td>Rahul Mehra</td>
+					<td>8744511</td>
+					<td>A</td>
+					<td>7</td>
+					<td>33</td>
+					<td>21.21%</td>
+				</tr><tr>
+					<td>Geeta Sharma</td>
+					<td>9874511</td>
+					<td>A</td>
+					<td>8</td>
+					<td>33</td>
+					<td>24.24%</td>
+				</tr><tr>
+					<td>Umesh Jha</td>
+					<td>12336523</td>
+					<td>A</td>
+					<td>8</td>
+					<td>33</td>
+					<td>24.24%</td>
+				</tr><tr>
+					<td>Pranali Surve</td>
+					<td>98744522</td>
+					<td>A</td>
+					<td>9</td>
+					<td>33</td>
+					<td>27.27%</td>
+				</tr>

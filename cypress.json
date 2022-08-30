@@ -1,0 +1,12 @@
+{
+  "defaultCommandTimeout": 10000,
+  "viewportHeight": 1080,
+  "viewportWidth": 1920,
+  "projectId": "va4npu",
+  
+  "requestTimeout" : 30000,
+  "numTestsKeptInMemory": 0,
+  "responseTimeout" : 50000,
+  "pageLoadTimeout": 100000
+}
+
