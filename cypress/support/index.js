@@ -21,6 +21,8 @@ import './commands'
 // import "cypress-xpath"; 
 require('cypress-xpath');
 
+import 'cypress-mochawesome-reporter/register';
+
 Cypress.on('uncaught:exception', (err, runnable) => {
   // returning false here prevents Cypress from
   // failing the test

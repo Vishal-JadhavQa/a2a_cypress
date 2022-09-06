@@ -7,6 +7,18 @@
   "requestTimeout" : 30000,
   "numTestsKeptInMemory": 0,
   "responseTimeout" : 50000,
-  "pageLoadTimeout": 100000
-}
+  "pageLoadTimeout": 100000,
 
+  "reporter": "cypress-mochawesome-reporter",
+  "reporterOptions": {
+      "reportDir": "cypress/report/mochawesome-report",
+      "overwrite": true,
+      "charts" : true,
+      "reportPageTitle" : "my test report",
+      "embeddedScreenshots" : true,
+      "inLineAssets" : true,
+      "html": true,
+      "json": true,
+      "timestamp": "mmddyyyy_HHMMss"
+   }
+}
